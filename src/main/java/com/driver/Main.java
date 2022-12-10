@@ -15,6 +15,6 @@ public class Main {
     }
   public static void main(String[] args){
         B objB = new B(); // creating object of class B
-        System.out.println(objB.meth());
+        objB.meth();
   }
 }
